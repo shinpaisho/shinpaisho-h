@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jonah/source/repos/Game1/Game1/Content/damnMaku.png","C:/Users/jonah/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/damnMaku.xnb","TextureProcessor","Texture2DContent",189,1109,0.2945817
+"C:/Users/jonah/source/repos/Game1/Game1/Content/font1.spritefont","C:/Users/jonah/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/font1.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.1537123
+"C:/Users/jonah/source/repos/Game1/Game1/Content/padoru1.png","C:/Users/jonah/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/padoru1.xnb","TextureProcessor","Texture2DContent",6760,65621,0.0053053
+"C:/Users/jonah/source/repos/Game1/Game1/Content/reimu_is_shooting.png","C:/Users/jonah/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",1665,4453,0.00338
+"C:/Users/jonah/source/repos/Game1/Game1/Content/wriggle.png","C:/Users/jonah/source/repos/Game1/Game1/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",2689,7381,0.0032664

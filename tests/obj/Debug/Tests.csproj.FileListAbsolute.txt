@@ -1,0 +1,8 @@
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\bin\Debug\Tests.exe
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\bin\Debug\Tests.pdb
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\obj\Debug\Intillisense.FormMain.resources
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\obj\Debug\Tests.Properties.Resources.resources
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\obj\Debug\Tests.exe
+D:\Source Code Of Programs\VS .NET\Applets\DanmakuKun\Tests\obj\Debug\Tests.pdb
